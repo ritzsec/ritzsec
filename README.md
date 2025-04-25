@@ -7,13 +7,6 @@
 </p>
 
 
-<p align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/github/followers/your-username?logo=github&style=for-the-badge&logoColor=white&labelColor=181825&color=f5c2e7" alt="GitHub Followers"/>
-  </a>
-</p>
-
-
 I’m a Cybersecurity Enthusiast with a strong foundation in Computer Science Engineering (CSE), and I’m diving headfirst into the world of Red Teaming and ethical hacking. I'm fascinated by how systems work, how they can be secured, and how they can be tested to identify weaknesses before the bad guys do.
 
 As I explore the exciting world of offensive security, I'm constantly learning and experimenting with new tools, techniques, and methods to better understand how attacks unfold and how to defend against them. Whether it’s penetration testing, vulnerability assessments, or simulating attacks, I’m always looking for ways to grow and sharpen my skills.
