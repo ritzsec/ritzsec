@@ -2,6 +2,11 @@
   <h2 style="border-bottom: none;">👋Hello!, I'm Bhargav — 50% human, 50% $, 100% into breaking and securing systems.</h1>
 </div>
 
+<p align="center">
+  <img src="https://camo.githubusercontent.com/1cc478d6ea38eab530acb98124c749dba0c5b19294bee0ee4bd6169ae4f5639d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f336f456a4857706956494f475854356c396d2f67697068792e676966" alt="terminal animation" />
+</p>
+
+
 I’m a Cybersecurity Enthusiast with a strong foundation in Computer Science Engineering (CSE), and I’m diving headfirst into the world of Red Teaming and ethical hacking. I'm fascinated by how systems work, how they can be secured, and how they can be tested to identify weaknesses before the bad guys do.
 
 As I explore the exciting world of offensive security, I'm constantly learning and experimenting with new tools, techniques, and methods to better understand how attacks unfold and how to defend against them. Whether it’s penetration testing, vulnerability assessments, or simulating attacks, I’m always looking for ways to grow and sharpen my skills.
