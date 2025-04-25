@@ -1,4 +1,15 @@
-# Hello, I'm CHANGEME
+<div align="center">
+  <a style="text-decoration: none;" href="https://github.com/sumithemmadi">
+      <img style="border-radius:10px" src="https://img.shields.io/github/followers/sumithemmadi?logo=github&style=for-the-badge&logoColor=white&labelColor=181825&color=f5c2e7" />
+  </a>
+  <!-- this image was a nightmare -->
+  <a style="text-decoration: none;" href="https://github.com/sumithemmadi">
+      <img style="border-radius:10px" src="https://hits.sh/github.com/sumithemmadi/hits.svg?color=f9e2af&labelColor=181825&style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSIjZmZmZmZmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BR2l0Qm9vazwvdGl0bGU%2BPHBhdGggZD0iTTEwLjgwMiAxNy43N2EuNzAzLjcwMyAwIDExLS4wMDIgMS40MDYuNzAzLjcwMyAwIDAxLjAwMi0xLjQwNm0xMS4wMjQtNC4zNDdhLjcwMy43MDMgMCAxMS4wMDEtMS40MDYuNzAzLjcwMyAwIDAxLS4wMDEgMS40MDZtMC0yLjg3NmEyLjE3NiAyLjE3NiAwIDAwLTIuMTc0IDIuMTc0YzAgLjIzMy4wMzkuNDY1LjExNS42OTFsLTcuMTgxIDMuODIzYTIuMTY1IDIuMTY1IDAgMDAtMS43ODQtLjkzN2MtLjgyOSAwLTEuNTg0LjQ3NS0xLjk1IDEuMjE2bC02LjQ1MS0zLjQwMmMtLjY4Mi0uMzU4LTEuMTkyLTEuNDgtMS4xMzgtMi41MDIuMDI4LS41MzMuMjEyLS45NDcuNDkzLTEuMTA3LjE3OC0uMS4zOTItLjA5Mi42Mi4wMjdsLjA0Mi4wMjNjMS43MS45IDcuMzA0IDMuODQ3IDcuNTQgMy45NTYuMzYzLjE2OS41NjUuMjM3IDEuMTg1LS4wNTdsMTEuNTY0LTYuMDE0Yy4xNy0uMDY0LjM2OC0uMjI3LjM2OC0uNDc0IDAtLjM0Mi0uMzU0LS40NzctLjM1NS0uNDc3LS42NTgtLjMxNS0xLjY2OS0uNzg4LTIuNjU1LTEuMjUtMi4xMDgtLjk4Ny00LjQ5Ny0yLjEwNS01LjU0Ni0yLjY1NS0uOTA2LS40NzQtMS42MzUtLjA3NC0xLjc2NS4wMDZsLS4yNTIuMTI1QzcuNzggNi4wNDggMS40NiA5LjE3OCAxLjEgOS4zOTcuNDU3IDkuNzg5LjA1OCAxMC41Ny4wMDYgMTEuNTM5Yy0uMDggMS41MzcuNzAzIDMuMTQgMS44MjQgMy43MjdsNi44MjIgMy41MThhMi4xNzUgMi4xNzUgMCAwMDIuMTUgMS44NjIgMi4xNzcgMi4xNzcgMCAwMDIuMTczLTIuMTRsNy41MTQtNC4wNzNjLjM4LjI5OC44NTMuNDYxIDEuMzM3LjQ2MUEyLjE3NiAyLjE3NiAwIDAwMjQgMTIuNzJhMi4xNzYgMi4xNzYgMCAwMC0yLjE3NC0yLjE3NCIvPjwvc3ZnPg%3D%3D&label=Profile%20Views"/>
+  </a>
+  <h1 style="border-bottom: none;">Hi, I'm Sumith!</h1>
+</div>
+
+LET'S cONNECT
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I’m a Cybersecurity Enthusiast with a strong foundation in Computer Science Engineering (CSE), and I’m diving headfirst into the world of Red Teaming and ethical hacking. I'm fascinated by how systems work, how they can be secured, and how they can be tested to identify weaknesses before the bad guys do.
@@ -14,52 +25,29 @@ As I explore the exciting world of offensive security, I'm constantly learning a
 - **Learning & Experimenting**: Constantly improving my skill set by diving into new tools and techniques.
 
 
-## My Skill Set
+## 🛠️ My Skill Set
 
-<table><tr><td valign="top" width="33%">
+### 🔐 Cybersecurity Tools
+- **Kali Linux**: A Debian-based distribution tailored for penetration testing.
+- **Metasploit**: A powerful framework for developing and executing exploit code.
+- **Burp Suite**: An integrated platform for performing security testing of web applications.
+- **Wireshark**: A network protocol analyzer for network troubleshooting and analysis.
+- **Nmap**: A network scanning tool to discover hosts and services on a computer network.&#8203;:contentReference[oaicite:24]{index=24}
 
-### Red Teaming & Offensive Security  
-<div align="center">  
-  <a href="https://www.kali.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=kali" alt="Kali Linux" height="50" /></a>  
-  <a href="https://www.metasploit.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=metasploit" alt="Metasploit" height="50" /></a>   
-  <a href="https://www.offensive-security.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=oscp" alt="OSCP" height="50" /></a>  
-  <a href="https://www.parrotsec.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=parrot" alt="Parrot OS" height="50" /></a>  
-  <a href="https://www.nmap.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nmap" alt="Nmap" height="50" /></a>  
-  <a href="https://www.impactedsecurity.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=burpsuite" alt="Burp Suite" height="50"/></a>  
-  <a href="https://www.tryhackme.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=tryhackme" alt="TryHackMe" height="50" /></a>  
-</div>
+### 🧠 Programming Languages
+- **Python**: :contentReference[oaicite:25]{index=25}
+- **Java**: :contentReference[oaicite:26]{index=26}
+- **C/C++**: :contentReference[oaicite:27]{index=27}&#8203;:contentReference[oaicite:28]{index=28}
 
-</td><td valign="top" width="33%">
+### 🌐 Networking & Protocols
+- **TCP/IP**: :contentReference[oaicite:29]{index=29}
+- **HTTP/HTTPS**: :contentReference[oaicite:30]{index=30}
+- **DNS**: :contentReference[oaicite:31]{index=31}&#8203;:contentReference[oaicite:32]{index=32}
 
-### Cybersecurity & Threat Analysis  
-<div align="center">  
-  <a href="https://www.cve.mitre.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=cve" alt="CVE" height="50" /></a>  
-  <a href="https://www.osvdb.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=exploitdb" alt="Exploit-DB" height="50" /></a>  
-  <a href="https://www.snort.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=snort" alt="Snort IDS" height="50" /></a>  
-  <a href="https://www.wireshark.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=wireshark" alt="Wireshark" height="50" /></a>  
-  <a href="https://www.splunk.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=splunk" alt="Splunk" height="50" /></a>  
-  <a href="https://www.ossec.net/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=ossec" alt="OSSEC" height="50" /></a>  
-  <a href="https://www.cloudflare.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" height="50" /></a>  
-  <a href="https://www.mitre.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=mitre" alt="MITRE ATT&CK" height="50" /></a>  
-  <a href="https://www.cobaltstrike.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=cobaltstrike" alt="Cobalt Strike" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-### Networking & System Security  
-<div align="center">  
-  <a href="https://www.openvpn.net/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=openvpn" alt="OpenVPN" height="50" /></a>  
-  <a href="https://www.cisecurity.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=cisco" alt="Cisco" height="50" /></a>  
-  <a href="https://www.tcpdump.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=tcpdump" alt="Tcpdump" height="50" /></a>  
-  <a href="https://www.shodan.io/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=shodan" alt="Shodan" height="50" /></a>  
-  <a href="https://www.cloudflare.com/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=cloudflare" alt="Cloudflare" height="50" /></a>  
-  <a href="https://www.nessus.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=nessus" alt="Nessus" height="50" /></a>  
-  <a href="https://www.ssh.com/ssh/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=ssh" alt="SSH" height="50" /></a>  
-  <a href="https://www.cisecurity.org/" target="_blank"><img style="margin: 10px" src="https://skillicons.dev/icons?i=cis" alt="CIS" height="50" /></a>  
-</div>
-
-</td></tr>
-</table>
+### 🛡️ Security Concepts
+- **OWASP Top 10**: :contentReference[oaicite:33]{index=33}
+- **MITRE ATT&CK**: :contentReference[oaicite:34]{index=34}
+- **Social Engineering**: :contentReference[oaicite:35]{index=35}&#8203;:contentReference[oaicite:36]{index=36}
 
 
 
