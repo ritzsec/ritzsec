@@ -72,23 +72,21 @@ As I explore the exciting world of offensive security, I'm constantly learning a
 
 ## 💼 PROJECTS
 
-|               Project Name                    |   Associated References    |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-|🔍 Python-Subdomain_Enumeration                  | <a href="https://github.com/CozMosh/Python-Subdomain_Enumeration">Python_Subdomain_Enum</a>|
-|🛡️ PDF_Protection_Tool                           | <a href="https://github.com/CozMosh/PDF_Protection_Tool">PDF_Protection_Tool</a>|
-|🔓 PDF_Cracker_Tool                              | <a href="https://github.com/CozMosh/Password_Cracker_Tool">PDF_Cracker_Tool</a>|
-|🌐 Network_Scanner_Tool                          | <a href="https://github.com/CozMosh/Network_Scanner_Tool">Network_Scanner_Tool</a>|
-|🕳️ Port_Scanner_Tool                             | <a href="https://github.com/CozMosh/Port_Scanner_Tool">Port_Scanner_Tool</a>|
-|🔐 SSH_Cracker                                   | <a href="https://github.com/CozMosh/SSH_Cracker">SSH_Cracker</a>|
-|📁 FTP_Cracker_Tool                              | <a href="https://github.com/CozMosh/FTP_Cracker_Tool">FTP_Cracker_Tool</a>|
-|🔑 Password_Cracker_Tool                         | <a href="https://github.com/CozMosh/Password_Cracker_Tool">Password_Cracker_Tool</a>|
-|💀 Backdoor_Reverse_Shell_Tool                   | <a href="https://github.com/CozMosh/Backdoor_Reverse_Shell_Tool">Backdoor_Reverse_Shell_Tool</a>|
-|🕵️ Info_Stealer_Tool                             | <a href="https://github.com/CozMosh/Info_Stealer_Tool">Info_Stealer_Tool</a>|
-|📡 SSH_Botnet_Tool                               | <a href="https://github.com/CozMosh/SSH_Botnet_Tool">SSH_Botnet_Tool</a>|
+|               Project Name                       |    Associated References   |
+|----------------------------------------------    |----------------------------|
+| SIEM Implementation and Log Analysis             | <a href="">Detection Lab</a> |
+| Vulnerability Assessment Lab Setup               | Vulnerability Assessment Lab |
+|🔍 Python-Subdomain_Enumeration                  | <a href="https://github.com/CozMosh/Python-Subdomain_Enumeration">Python_Subdomain_Enum</a> |
+|🛡️ PDF_Protection_Tool                           | <a href="https://github.com/CozMosh/PDF_Protection_Tool">PDF_Protection_Tool</a> |
+|🔓 PDF_Cracker_Tool                              | <a href="https://github.com/CozMosh/Password_Cracker_Tool">PDF_Cracker_Tool</a> |
+|🌐 Network_Scanner_Tool                          | <a href="https://github.com/CozMosh/Network_Scanner_Tool">Network_Scanner_Tool</a> |
+|🕳️ Port_Scanner_Tool                             | <a href="https://github.com/CozMosh/Port_Scanner_Tool">Port_Scanner_Tool</a> |
+|🔐 SSH_Cracker                                   | <a href="https://github.com/CozMosh/SSH_Cracker">SSH_Cracker</a> |
+|📁 FTP_Cracker_Tool                              | <a href="https://github.com/CozMosh/FTP_Cracker_Tool">FTP_Cracker_Tool</a> |
+|🔑 Password_Cracker_Tool                         | <a href="https://github.com/CozMosh/Password_Cracker_Tool">Password_Cracker_Tool</a> |
+|💀 Backdoor_Reverse_Shell_Tool                   | <a href="https://github.com/CozMosh/Backdoor_Reverse_Shell_Tool">Backdoor_Reverse_Shell_Tool</a> |
+|🕵️ Info_Stealer_Tool                             | <a href="https://github.com/CozMosh/Info_Stealer_Tool">Info_Stealer_Tool</a> |
+|📡 SSH_Botnet_Tool                               | <a href="https://github.com/CozMosh/SSH_Botnet_Tool">SSH_Botnet_Tool</a> |
 
 
 ## 📜 Certifications
