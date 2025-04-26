@@ -36,7 +36,6 @@ As I explore the exciting world of offensive security, I'm constantly learning a
   <img src="https://img.shields.io/badge/-Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-Burp_Suite-F57C00?style=for-the-badge&logo=burpsuite&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-Nmap-0087B5?style=for-the-badge&logo=nmap&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-Cobalt_Strike-27338E?style=for-the-badge&logo=cobaltstrike&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" /> 
 </div>
 
@@ -45,7 +44,8 @@ As I explore the exciting world of offensive security, I'm constantly learning a
   <img src="https://img.shields.io/badge/-MITRE_ATT%26CK-00425F?style=for-the-badge&logo=mitre&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-Exploit_DB-DD0B78?style=for-the-badge&logo=exploitdb&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/-Snort-FF3366?style=for-the-badge&logo=snort&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/-Nessus-2296F3?style=for-the-badge&logo=tenable&logoColor=white" />
+
 </div>
 
 ### 🖥️ Endpoint Security
