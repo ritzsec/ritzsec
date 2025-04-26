@@ -79,10 +79,6 @@ As I explore the exciting world of offensive security, I'm constantly learning a
 |🔍 Python-Subdomain_Enumeration                  | <a href="https://github.com/CozMosh/Python-Subdomain_Enumeration">Python_Subdomain_Enum</a> |
 
 
-## 📜 Certifications
-<div>
-<div> <img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?style=for-the-badge&logo=Google&logoColor=white" /> <img src="https://img.shields.io/badge/-Wireshark_for_Network_Traffic_Analysis-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" /> <img src="https://img.shields.io/badge/-Microsoft_Defender_%26_Firewall-00A4EF?style=for-the-badge&logo=Microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-Practical_Ethical_Hacking_(TCM_Security)-9C27B0?style=for-the-badge&logo=HackTheBox&logoColor=white" /> <img src="https://img.shields.io/badge/-Linux_101_(TCM_Security)-FCC624?style=for-the-badge&logo=Linux&logoColor=black" /> <img src="https://img.shields.io/badge/-Google_Cybersecurity_Forage-34A853?style=for-the-badge&logo=Google&logoColor=white" /> </div>
-</div>
 
 ### 📬 Get in Touch
 <div> <a href="mailto:ritzsecjobs007@gmail.com"> <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> 
