@@ -74,7 +74,6 @@ As I explore the exciting world of offensive security, I'm constantly learning a
 
 |               Project Name                       |    Associated References   |
 |----------------------------------------------    |----------------------------|
-| SIEM Implementation and Log Analysis             | <a href="">Detection Lab</a> |
 | Vulnerability Assessment Lab Setup               | Vulnerability Assessment Lab |
 |🔍 Python-Subdomain_Enumeration                  | <a href="https://github.com/CozMosh/Python-Subdomain_Enumeration">Python_Subdomain_Enum</a> |
 
