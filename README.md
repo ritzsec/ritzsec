@@ -1,5 +1,5 @@
 
-  <h2 style="border-bottom: none;">👋Hello!, I'm Bhargav — 50% human, 50% $, 100% into breaking and securing systems.</h1>
+  <h2 style="border-bottom: none;">👋Hello!, I'm Gumbo — 50% human, 50% $, 100% into breaking and securing systems.</h1>
 </div>
 
 <p align="center">
