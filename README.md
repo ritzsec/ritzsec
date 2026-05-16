@@ -601,5 +601,5 @@ I’m continuously learning, building labs, and improving my real-world infrastr
 <div align="center">
 
 ### ⚡ "Always learning. Always building. Always improving."
-
+### ⚡ "NEVER STOP."
 </div>
