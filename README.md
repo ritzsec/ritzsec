@@ -418,13 +418,16 @@ Designed for educational networking and cybersecurity purposes to demonstrate po
 </tr>
 </table>
 
-
+</br>
 
 <div align="center">
-
+  
 ## 🛠️ Technical Arsenal
 
 <div align="center">
+
+> Enterprise Networking • Network Security • Infrastructure Troubleshooting • Python Automation
+
 </div>
 
 <br>
@@ -434,7 +437,7 @@ Designed for educational networking and cybersecurity purposes to demonstrate po
 ║                 NETWORKING & SECURITY                     ║
 ╚════════════════════════════════════════════════════════════╝
 
- 🌐 ENTERPRISE NETWORKING
+🌐 ENTERPRISE NETWORKING
 ▸ VLANs, STP, EtherChannel
 ▸ OSPF, EIGRP, HSRP
 ▸ Inter-VLAN Routing
@@ -557,6 +560,7 @@ Designed for educational networking and cybersecurity purposes to demonstrate po
 ---
 
 
+
 <h2 align="center">🎯 Career Vision</h2>
 
 <div align="center">
@@ -565,6 +569,18 @@ Designed for educational networking and cybersecurity purposes to demonstrate po
 
 From routing packets to securing enterprise environments,  
 I’m continuously learning, building labs, and improving my real-world infrastructure skills.
+
+</div>
+
+---
+
+
+
+<div align="center">
+
+### 👀 Profile Visitors
+
+<img src="https://komarev.com/ghpvc/?username=ritzsec&label=PROFILE+VIEWS&color=00C853&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
