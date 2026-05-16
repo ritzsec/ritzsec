@@ -573,16 +573,9 @@ Designed for educational networking and cybersecurity purposes to demonstrate po
 ## 📈 GitHub Analytics
 
 <div align="center">
-
-<img height="180em" src="https://raw.githubusercontent.com/ritzsec/ritzsec/metrics/github-metrics.svg" >
-
-</div>
-
-
-<div align="center">
   
   <!-- Contribution Snake Animation -->
-  <img src="https://raw.githubusercontent.com/Gumbo/Gumbo/output/github-contribution-grid-snake-dark.svg" alt="github contribution snake animation"/>
+ ![snake gif](https://github.com/ritzsec/ritzsec/blob/output/github-snake-dark.svg)
   
 </div>
 
