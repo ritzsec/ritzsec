@@ -10,23 +10,12 @@
 
   <br/>
 
-  <!-- Social Links -->
-<h3>🌐 Connect With Me</h3>
-   <p>
-    <a href="https://www.linkedin.com/in/bhargav-sandilya-817101305/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
-    </a>
-    <a href="https://twitter.com/">
-  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
-    </a>
-  </p>
-
 </div>
 
 
 ---
 
-## 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
 ```yaml
 Name: Bhargav Sandilya
@@ -122,7 +111,7 @@ My long-term goal is to grow into a highly skilled Network / Security Engineer c
 ---
 
 
-## 🛠️ Technologies & Concepts
+<h2 align="center">🛠️ Technologies & Concepts </h2>
 
 <div align="center">
 
@@ -159,7 +148,7 @@ My long-term goal is to grow into a highly skilled Network / Security Engineer c
 ---
 
 
-## 🔥 Featured Projects
+<h2 align="center">🔥 Featured Projects</h2>
 
 <div align="center">
 
@@ -430,8 +419,10 @@ Designed for educational networking and cybersecurity purposes to demonstrate po
 </table>
 
 
-## 🛠️ Technical Arsenal
+
 <div align="center">
+
+## 🛠️ Technical Arsenal
 
 <div align="center">
 </div>
@@ -554,7 +545,7 @@ Designed for educational networking and cybersecurity purposes to demonstrate po
 </div>
 ```
 
-## 📈 GitHub Analytics
+ <h2 align="center">📈 GitHub Analytics </h2>
 
 <div align="center">
   
@@ -566,9 +557,7 @@ Designed for educational networking and cybersecurity purposes to demonstrate po
 ---
 
 
-
-
-## 🎯 Career Vision
+<h2 align="center">🎯 Career Vision</h2>
 
 <div align="center">
 
