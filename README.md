@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Blue Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:00C853&height=220&section=header&text=Bhargav%20Sandilya&fontSize=45&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Network%20Security%20Engineer%20|%20VPN%20Specialist&descAlignY=58&descSize=22" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF41,100:00C853&height=220&section=header&text=BHARGAV%20SANDILYA&fontSize=45&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Network%20Security%20Engineer%20|%20VPN%20Specialist&descAlignY=58&descSize=22" />
 
  <!-- Dynamic Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&random=false&width=1000&lines=Enterprise+Routing+%26+Switching;Network+Security+%26+Infrastructure;Firewall+%26+VPN+Technologies;Packet+Analysis+with+Wireshark;Infrastructure+Troubleshooting" alt="Typing SVG" />
