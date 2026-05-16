@@ -429,11 +429,9 @@ Designed for educational networking and cybersecurity purposes to demonstrate po
 </tr>
 </table>
 
-<div align="center">
-
-
 
 ## 🛠️ Technical Arsenal
+<div align="center">
 
 <div align="center">
 </div>
@@ -539,21 +537,7 @@ Designed for educational networking and cybersecurity purposes to demonstrate po
 
 ---
 
-
-
-
-
-
-
-
-
-
-
-
-
-</br>
-
-<h2 align="center">📊 Current Focus</h2>
+<h2>📊 Current Focus</h2>
 <div align="center">
 
 <img src="https://img.shields.io/badge/Enterprise_Networking-000000?style=for-the-badge&logoWidth=40&labelColor=000000&color=000000" height="35"/>
