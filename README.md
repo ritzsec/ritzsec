@@ -15,61 +15,70 @@
 
 ---
 
-<h2 align="center">🚀 About Me</h2>
+<div align="center">
 
-```yaml
-Name: Bhargav Sandilya
+# 👨‍💻 About Me
 
-Role: Network Security Engineer | Cybersecurity Enthusiast
 
-Focus Areas:
-  - Enterprise Networking
-  - Network Security
-  - Routing & Switching
-  - VLANs, STP, EtherChannel
-  - OSPF & EIGRP
-  - ACLs & Port Security
-  - Packet Analysis using Wireshark
-  - Infrastructure Troubleshooting
-  - Network Monitoring & Security Concepts
+Network Security Engineer passionate about enterprise networking, infrastructure security, and secure network design. Experienced in routing & switching, VLANs, HSRP, ACLs, packet analysis using Wireshark, and troubleshooting enterprise-level networking environments. Currently expanding expertise in firewall technologies, VPNs, cloud & data center networking, secure architecture, and Python for network automation. Strong interest in building scalable, secure, and resilient enterprise network infrastructures.
 
-Technical Skills:
-  - Cisco Networking
-  - TCP/IP
-  - Subnetting
-  - VLAN Configuration
-  - Inter-VLAN Routing
-  - HSRP
-  - DHCP & DNS
-  - Firewall Fundamentals
-  - Linux Basics
-  - Windows Security
-  - Python Basics for Automation
+<div align="center">
+</div>
 
-Hands-On Experience:
-  - Enterprise-Level Networking Labs
-  - WAN Redundancy & Failover
-  - Load Balancing Concepts
-  - Packet Capture & Traffic Analysis
-  - Security Monitoring Fundamentals
-  - Network Troubleshooting Scenarios
+---
 
-Currently Expanding Knowledge In:
-  - Firewall Technologies
-  - VPN Technologies
-  - Enterprise Network Security
-  - Access Control & Network Segmentation
-  - Secure Network Architecture
-  - Cloud & Data Center Networking
-  - Python for Network Automation
-  - Advanced Routing & Switching
+## 🎯 Focus Areas
 
-Certifications & Learning:
-  - Google Cybersecurity Certificate
-  - Hack The Box - Intro to Traffic Analysis using Wireshark
-  - TCM Academy - Linux 100 Fundamentals
-  - Mastercard Cybersecurity Virtual Experience
-```
+| color:#00FF99 Enterprise Networking | Security | Routing & Switching | Monitoring & Analysis |
+|---|---|---|---|
+| Enterprise Networking | Network Security | OSPF & EIGRP | Packet Analysis using Wireshark |
+| VLANs & STP | ACLs & Port Security | EtherChannel | Infrastructure Troubleshooting |
+| Inter-VLAN Routing | Firewall Concepts | HSRP | Network Monitoring |
+| WAN Technologies | Access Control | Advanced Switching | Security Concepts |
+
+</div>
+
+<div align="center">
+
+## 🧪 Hands-On Experience
+
+| Enterprise Labs | Networking | Security | Analysis |
+|---|---|---|---|
+| Enterprise-Level Networking Labs | WAN Redundancy & Failover | Security Monitoring Fundamentals | Packet Capture & Traffic Analysis |
+| Multi-Site Topologies | Load Balancing Concepts | Access Control Practice | Wireshark Traffic Analysis |
+| Routing & Switching Labs | VLAN & HSRP Deployments | Firewall Fundamentals | Troubleshooting Scenarios |
+
+</div>
+
+
+
+<div align="center">
+
+## 📚 Currently Expanding Knowledge In
+
+| Enterprise Security | Infrastructure | Automation | Networking |
+|---|---|---|---|
+| Firewall Technologies | Secure Network Architecture | Python for Network Automation | Advanced Routing & Switching |
+| VPN Technologies | Cloud & Data Center Networking | Automation Workflows | Enterprise Networking |
+| Enterprise Network Security | Network Segmentation | Scripting Concepts | Infrastructure Design |
+
+</div>
+
+
+
+<div align="center">
+
+## 🎓 Certifications & Learning
+
+| Certification | Platform |
+|---|---|
+| Google Cybersecurity Certificate | Google |
+| Intro to Traffic Analysis using Wireshark | Hack The Box |
+| Linux 100 Fundamentals | TCM Academy |
+| Cybersecurity Virtual Experience | Mastercard |
+
+</div>
+
 
 ---
 
