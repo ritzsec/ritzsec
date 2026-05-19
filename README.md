@@ -163,37 +163,90 @@ My long-term goal is to grow into a highly skilled Network / Security Engineer c
 
 ### 🏆 Flagship Research & Engineering Work
 
+<div align="center">
+  
+## 🌐 Enterprise EIGRP WAN Network Project
+
+<img src="https://img.shields.io/badge/Enterprise_Networking-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/EIGRP-1E90FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/VRRP-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/WAN-0F766E?style=for-the-badge" />
+
+</div>
+<br>
+
+**Project Overview:**  
+Designed and implemented an enterprise-level WAN topology using EIGRP and VRRP to simulate a scalable, resilient, and highly available multi-branch enterprise network with redundant ISP connectivity, dynamic routing, automatic failover, and variance-based load balancing.
+
+**Key Features:**
+
+🌐 Multi-Branch Enterprise WAN Architecture
+⚡ EIGRP Dynamic Routing & DUAL Analysis
+🔄 Equal-Cost & Unequal-Cost Load Balancing
+📊 Variance-Based Traffic Distribution
+🛡️ VRRP Gateway Redundancy
+🚨 WAN Redundancy & Automatic Failover
+🔍 Successor & Feasible Successor Route Analysis
+🧪 Enterprise Routing Verification & Troubleshooting
+📡 Branch-to-Branch & HQ Connectivity
+
+**Skills Demonstrated:**
+
+🌐 Enterprise WAN Design & Redundancy Planning
+⚡ Dynamic Routing Protocol Implementation (EIGRP)
+🛡️ High Availability (HA) & Failover Mechanisms
+📊 Load Balancing & Path Selection Optimization
+🖥️ Cisco IOS Configuration & Troubleshooting
+🔍 Routing Analysis using DUAL & Topology Tables
+🔄 First-Hop Redundancy Protocol Implementation (VRRP)
+🧪 Practical Enterprise Networking Implementation
+
+**Tech Stack:**  
+`Cisco IOS` `EVE-NG` `EIGRP` `VRRP` `Wireshark` `DUAL Algorithm` `Variance`
+
+**Use Case:**  
+Simulates a real-world enterprise WAN environment where multiple branch offices maintain resilient and uninterrupted connectivity with a Headquarters region through redundant ISP infrastructure and intelligent routing mechanisms.
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOURUSERNAME/Enterprise_EIGRP_WAN_Project)
+
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<br>
+
+
+
 
 <div align="center">
   
-### 🛡️ [Python-Subdomain_Enumeration Tool](https://github.com/ritzsec/Python-Subdomain_Enumeration)
+## 🛡️ Python-Subdomain_Enumeration Tool
 
 <img src="https://img.shields.io/badge/Python_Networking-00C853?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Subdomain_Enumeration-16a34a?style=for-the-badge" />
 
 </div>
+<br>
 
-**Project Overview:** Developed a multithreaded subdomain enumeration tool to automate reconnaissance and identify active subdomains for a target domain using concurrent HTTP requests.
+**Project Overview:**  
+Developed a multithreaded subdomain enumeration tool to automate reconnaissance and identify active subdomains for a target domain using concurrent HTTP requests.
 
 **Key Features:**
-- 🌐 Automated subdomain discovery using custom wordlists
-- ⚡ Multithreaded scanning for faster enumeration
-- 🔍 Live host detection using HTTP response analysis
-- 🛠️ Error handling for failed or unreachable requests
-- 📝 Logging discovered subdomains to output files
 
-**Skills Demonstrated:** 
-- Python scripting for cybersecurity automation
-- Network reconnaissance methodologies
-- Multithreading & concurrent processing
-- HTTP request handling using `requests`
-- File handling & result logging
-- Practical exposure to ethical hacking workflows
+🌐 Automated subdomain discovery using custom wordlists
+⚡ Multithreaded scanning for faster enumeration
+🔍 Live host detection using HTTP response analysis
+🛠️ Error handling for failed or unreachable requests
+📝 Logging discovered subdomains to output files
+
+**Skills Demonstrated:**
+
+🐍 Python Scripting for Cybersecurity Automation
+🌐 Network Reconnaissance Methodologies
+⚡ Multithreading & Concurrent Processing
+🔍 HTTP Request Handling using `requests`
+📂 File Handling & Result Logging
+🛡️ Practical Exposure to Ethical Hacking Workflows
 
 **Tech Stack:**  
 `Python` `Requests` `Threading` `Network Reconnaissance` `Automation`
@@ -207,79 +260,41 @@ Helps perform reconnaissance and attack surface mapping during penetration testi
 
 </div>
 
-</td>
-<td width="50%" valign="top">
+<br>
+
+
+
 
 <div align="center">
   
-### ⚡ [SSH Botnet Controller](https://github.com/YOURUSERNAME/SSH_Botnet_Tool)
-
-<img src="https://img.shields.io/badge/SSH_Automation-00C853?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Python_Cybersecurity-16a34a?style=for-the-badge" />
-
-</div>
-
-**Project Overview:** Developed a Python-based SSH botnet controller capable of managing multiple SSH-connected systems through a centralized command interface for automation and cybersecurity learning purposes.
-
-**Key Features:**
-- 🔐 Automated SSH session handling using `pexpect`
-- ⚡ Multi-client command execution
-- 🖥️ Interactive bash-style command interface
-- 💾 Persistent bot/session management using JSON
-- 🌐 Basic packet crafting using `scapy`
-- 🎨 Enhanced terminal interaction with `colorama`
-
-**Skills Demonstrated:**
-- SSH automation & remote session management
-- Python-based CLI application development
-- Network packet manipulation fundamentals
-- Multi-session handling & automation workflows
-- JSON-based persistent data management
-- Cybersecurity scripting & tool development
-
-**Tech Stack:**  
-`Python` `Pexpect` `Scapy` `Colorama` `JSON` `CLI Automation`
-
-**Use Case:**  
-Designed for educational cybersecurity demonstrations, automation practice, and understanding centralized remote session management concepts.
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ritzsec/SSH_Botnet_Tool)
-
-</div>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<div align="center">
-  
-### 🔓 [PDF Cracker Tool](https://github.com/YOURUSERNAME/PDF_Cracker)
+## 🔓 PDF Cracker Tool
 
 <img src="https://img.shields.io/badge/PDF_Security-00C853?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Python_Automation-16a34a?style=for-the-badge" />
 
 </div>
+<br>
 
-**Project Overview:** Developed a multithreaded PDF password auditing tool capable of testing password combinations against protected PDF files using wordlists and generated password patterns.
+**Project Overview:**  
+Developed a multithreaded PDF password auditing tool capable of testing password combinations against protected PDF files using wordlists and generated password patterns.
 
 **Key Features:**
-- 🔐 PDF password testing using `pikepdf`
-- ⚡ Multithreaded password attempts for improved performance
-- 🧠 Dynamic password generation using `itertools`
-- 📊 Real-time progress tracking with `tqdm`
-- 🖥️ Command-line interface with customizable arguments
-- 📝 Wordlist-based and generated password support
+
+🔐 PDF password testing using `pikepdf`
+⚡ Multithreaded password attempts for improved performance
+🧠 Dynamic password generation using `itertools`
+📊 Real-time progress tracking with `tqdm`
+🖥️ Command-line interface with customizable arguments
+📝 Wordlist-based and generated password support
 
 **Skills Demonstrated:**
-- Python automation & scripting
-- Multithreading with `ThreadPoolExecutor`
-- Password auditing methodologies
-- CLI application development
-- File handling & argument parsing
-- Performance optimization for concurrent tasks
+
+🐍 Python Automation & Scripting
+⚡ Multithreading with `ThreadPoolExecutor`
+🔐 Password Auditing Methodologies
+🖥️ CLI Application Development
+📂 File Handling & Argument Parsing
+🚀 Performance Optimization for Concurrent Tasks
 
 **Tech Stack:**  
 `Python` `PikePDF` `ThreadPoolExecutor` `TQDM` `Argparse` `Cybersecurity Automation`
@@ -293,35 +308,42 @@ Designed for educational cybersecurity purposes to demonstrate password auditing
 
 </div>
 
-</td>
-<td width="50%" valign="top">
+<br>
+
+
+
+
 
 <div align="center">
   
-### 🔐 [PDF Protection Tool](https://github.com/YOURUSERNAME/PDF_Protection)
+## 🔐 PDF Protection Tool
 
 <img src="https://img.shields.io/badge/PDF_Encryption-00C853?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Python_Security_Tool-16a34a?style=for-the-badge" />
 
 </div>
+<br>
 
-**Project Overview:** Developed a Python-based PDF protection tool capable of encrypting PDF documents with password-based security to help protect sensitive files from unauthorized access.
+**Project Overview:**  
+Developed a Python-based PDF protection tool capable of encrypting PDF documents with password-based security to help protect sensitive files from unauthorized access.
 
 **Key Features:**
-- 🔒 Password protection for PDF documents
-- 📄 PDF encryption using `pikepdf`
-- 🖥️ Simple command-line interface
-- ⚡ Fast and lightweight file processing
-- 🛠️ Error & exception handling for invalid files or operations
-- 📂 Secure output PDF generation
+
+🔒 Password protection for PDF documents
+📄 PDF encryption using `pikepdf`
+🖥️ Simple command-line interface
+⚡ Fast and lightweight file processing
+🛠️ Error & exception handling for invalid files or operations
+📂 Secure output PDF generation
 
 **Skills Demonstrated:**
-- Python scripting & automation
-- PDF encryption fundamentals
-- Command-line tool development
-- File handling & processing
-- Exception handling & debugging
-- Security-focused application development
+
+🐍 Python Scripting & Automation
+🔒 PDF Encryption Fundamentals
+🖥️ Command-Line Tool Development
+📂 File Handling & Processing
+🛠️ Exception Handling & Debugging
+🛡️ Security-Focused Application Development
 
 **Tech Stack:**  
 `Python` `PikePDF` `CLI Development` `PDF Encryption` `Cybersecurity Automation`
@@ -335,38 +357,41 @@ Designed for educational and security-focused purposes to demonstrate PDF encryp
 
 </div>
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+<br>
+
+
+
 
 <div align="center">
   
-### 🌐 [Network Scanner Tool](https://github.com/YOURUSERNAME/Network_Scanner)
+## 🌐 Network Scanner Tool
 
 <img src="https://img.shields.io/badge/Network_Discovery-00C853?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Packet_Analysis-16a34a?style=for-the-badge" />
 
 </div>
+<br>
 
 **Project Overview:**  
 Developed a Python-based network scanner capable of identifying active devices within a target IP range using ARP-based network discovery techniques.
 
 **Key Features:**
-- 🌐 ARP-based active host discovery
-- 📡 Detection of live devices with IP & MAC addresses
-- ⚡ Fast local network scanning
-- 🛠️ Packet crafting using `Scapy`
-- 🔍 Network reconnaissance & device enumeration
-- 🖥️ Simple and lightweight CLI-based execution
+
+🌐 ARP-based active host discovery
+📡 Detection of live devices with IP & MAC addresses
+⚡ Fast local network scanning
+🛠️ Packet crafting using `Scapy`
+🔍 Network reconnaissance & device enumeration
+🖥️ Simple and lightweight CLI-based execution
 
 **Skills Demonstrated:**
-- Network scanning methodologies
-- ARP protocol fundamentals
-- Packet crafting & analysis
-- Python-based cybersecurity scripting
-- Local network reconnaissance
-- Device identification & enumeration
+
+🌐 Network Scanning Methodologies
+📡 ARP Protocol Fundamentals
+🛠️ Packet Crafting & Analysis
+🐍 Python-Based Cybersecurity Scripting
+🔍 Local Network Reconnaissance
+🖥️ Device Identification & Enumeration
 
 **Tech Stack:**  
 `Python` `Scapy` `ARP Protocol` `Packet Crafting` `Network Reconnaissance`
@@ -380,36 +405,41 @@ Designed for educational cybersecurity and networking purposes to demonstrate lo
 
 </div>
 
-</td>
-<td width="50%" valign="top">
+<br>
+
+
+
 
 <div align="center">
   
-### 🔍 [Port Scanner Tool](https://github.com/YOURUSERNAME/Port_Scanner)
+## 🔍 Port Scanner Tool
 
 <img src="https://img.shields.io/badge/Port_Scanning-00C853?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Service_Enumeration-16a34a?style=for-the-badge" />
 
 </div>
+<br>
 
 **Project Overview:**  
 Developed a multithreaded TCP port scanner capable of identifying open ports, detecting exposed services, and performing basic banner grabbing for network reconnaissance and security assessment purposes.
 
 **Key Features:**
-- 🌐 TCP port scanning & open port detection
-- ⚡ Multithreaded scanning for improved speed
-- 🔍 Service enumeration & banner grabbing
-- 🖥️ Real-time terminal progress updates
-- 🎨 Enhanced CLI output with ANSI formatting
-- 📡 Network reconnaissance & exposure analysis
+
+🌐 TCP port scanning & open port detection
+⚡ Multithreaded scanning for improved speed
+🔍 Service enumeration & banner grabbing
+🖥️ Real-time terminal progress updates
+🎨 Enhanced CLI output with ANSI formatting
+📡 Network reconnaissance & exposure analysis
 
 **Skills Demonstrated:**
-- Socket programming in Python
-- Multithreading with `concurrent.futures`
-- TCP/IP & network communication fundamentals
-- Service enumeration techniques
-- Banner grabbing & port analysis
-- CLI-based cybersecurity tool development
+
+🐍 Socket Programming in Python
+⚡ Multithreading with `concurrent.futures`
+🌐 TCP/IP & Network Communication Fundamentals
+🔍 Service Enumeration Techniques
+📡 Banner Grabbing & Port Analysis
+🖥️ CLI-Based Cybersecurity Tool Development
 
 **Tech Stack:**  
 `Python` `Socket Programming` `Concurrent Futures` `TCP/IP` `Banner Grabbing` `Network Reconnaissance`
@@ -423,23 +453,7 @@ Designed for educational networking and cybersecurity purposes to demonstrate po
 
 </div>
 
-</td>
-</tr>
-</table>
-
-</br>
-
-<div align="center">
-  
-## 🛠️ Technical Arsenal
-
-<div align="center">
-
- Enterprise Networking • Network Security • Infrastructure Troubleshooting • Python Automation
-
-</div>
-
-<br>
+---
 
 ```console
 
