@@ -29,7 +29,7 @@ Network Security Engineer passionate about enterprise networking, infrastructure
 
 ## 🎯 Focus Areas
 
-| color:#00FF99 Enterprise Networking | Security | Routing & Switching | Monitoring & Analysis |
+| Enterprise Networking | Security | Routing & Switching | Monitoring & Analysis |
 |---|---|---|---|
 | Enterprise Networking | Network Security | OSPF & EIGRP | Packet Analysis using Wireshark |
 | VLANs & STP | ACLs & Port Security | EtherChannel | Infrastructure Troubleshooting |
