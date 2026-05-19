@@ -429,7 +429,6 @@ Designed for educational networking and cybersecurity purposes to demonstrate po
 
 </br>
 
-## 🛠️ Technical Arsenal
 <div align="center">
   
 ## 🛠️ Technical Arsenal
@@ -441,6 +440,8 @@ Designed for educational networking and cybersecurity purposes to demonstrate po
 </div>
 
 <br>
+
+<div align="center">
 
 ```console
 
