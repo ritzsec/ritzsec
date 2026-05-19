@@ -429,6 +429,7 @@ Designed for educational networking and cybersecurity purposes to demonstrate po
 
 </br>
 
+## 🛠️ Technical Arsenal
 <div align="center">
   
 ## 🛠️ Technical Arsenal
