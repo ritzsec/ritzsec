@@ -176,6 +176,7 @@ My long-term goal is to grow into a highly skilled Network / Security Engineer c
 <br>
 
 **Project Overview:**  
+
 Designed and implemented an enterprise-level WAN topology using EIGRP and VRRP to simulate a scalable, resilient, and highly available multi-branch enterprise network with redundant ISP connectivity, dynamic routing, automatic failover, and variance-based load balancing.
 
 **Key Features:**
@@ -205,6 +206,7 @@ Designed and implemented an enterprise-level WAN topology using EIGRP and VRRP t
 `Cisco IOS` `EVE-NG` `EIGRP` `VRRP` `Wireshark` `DUAL Algorithm` `Variance`
 
 **Use Case:**  
+
 Simulates a real-world enterprise WAN environment where multiple branch offices maintain resilient and uninterrupted connectivity with a Headquarters region through redundant ISP infrastructure and intelligent routing mechanisms.
 
 <div align="center">
@@ -223,12 +225,13 @@ Simulates a real-world enterprise WAN environment where multiple branch offices 
 ## 🛡️ Python-Subdomain_Enumeration Tool
 
 <img src="https://img.shields.io/badge/Python_Networking-00C853?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Subdomain_Enumeration-16a34a?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Subdomain_Enumeration-DC2626?style=for-the-badge" />
 
 </div>
 <br>
 
 **Project Overview:**  
+
 Developed a multithreaded subdomain enumeration tool to automate reconnaissance and identify active subdomains for a target domain using concurrent HTTP requests.
 
 **Key Features:**
@@ -252,6 +255,7 @@ Developed a multithreaded subdomain enumeration tool to automate reconnaissance 
 `Python` `Requests` `Threading` `Network Reconnaissance` `Automation`
 
 **Use Case:**  
+
 Helps perform reconnaissance and attack surface mapping during penetration testing and security assessments.
 
 <div align="center">
@@ -269,13 +273,14 @@ Helps perform reconnaissance and attack surface mapping during penetration testi
   
 ## 🔓 PDF Cracker Tool
 
-<img src="https://img.shields.io/badge/PDF_Security-00C853?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PDF_Security-EAB308?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Python_Automation-16a34a?style=for-the-badge" />
 
 </div>
 <br>
 
 **Project Overview:**  
+
 Developed a multithreaded PDF password auditing tool capable of testing password combinations against protected PDF files using wordlists and generated password patterns.
 
 **Key Features:**
@@ -300,6 +305,7 @@ Developed a multithreaded PDF password auditing tool capable of testing password
 `Python` `PikePDF` `ThreadPoolExecutor` `TQDM` `Argparse` `Cybersecurity Automation`
 
 **Use Case:**  
+
 Designed for educational cybersecurity purposes to demonstrate password auditing techniques, concurrent processing, and Python-based automation workflows.
 
 <div align="center">
@@ -318,13 +324,14 @@ Designed for educational cybersecurity purposes to demonstrate password auditing
   
 ## 🔐 PDF Protection Tool
 
-<img src="https://img.shields.io/badge/PDF_Encryption-00C853?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Python_Security_Tool-16a34a?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PDF_Encryption-0EA5E9?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python_Security_Tool-F97316?style=for-the-badge" />
 
 </div>
 <br>
 
 **Project Overview:**  
+
 Developed a Python-based PDF protection tool capable of encrypting PDF documents with password-based security to help protect sensitive files from unauthorized access.
 
 **Key Features:**
@@ -349,6 +356,7 @@ Developed a Python-based PDF protection tool capable of encrypting PDF documents
 `Python` `PikePDF` `CLI Development` `PDF Encryption` `Cybersecurity Automation`
 
 **Use Case:**  
+
 Designed for educational and security-focused purposes to demonstrate PDF encryption workflows and secure document handling using Python.
 
 <div align="center">
@@ -373,6 +381,7 @@ Designed for educational and security-focused purposes to demonstrate PDF encryp
 <br>
 
 **Project Overview:**  
+
 Developed a Python-based network scanner capable of identifying active devices within a target IP range using ARP-based network discovery techniques.
 
 **Key Features:**
@@ -397,6 +406,7 @@ Developed a Python-based network scanner capable of identifying active devices w
 `Python` `Scapy` `ARP Protocol` `Packet Crafting` `Network Reconnaissance`
 
 **Use Case:**  
+
 Designed for educational cybersecurity and networking purposes to demonstrate local network discovery, packet manipulation, and reconnaissance techniques.
 
 <div align="center">
@@ -414,13 +424,14 @@ Designed for educational cybersecurity and networking purposes to demonstrate lo
   
 ## 🔍 Port Scanner Tool
 
-<img src="https://img.shields.io/badge/Port_Scanning-00C853?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Service_Enumeration-16a34a?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Port_Scanning-EC4899?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Service_Enumeration-9333EA?style=for-the-badge" />
 
 </div>
 <br>
 
 **Project Overview:**  
+
 Developed a multithreaded TCP port scanner capable of identifying open ports, detecting exposed services, and performing basic banner grabbing for network reconnaissance and security assessment purposes.
 
 **Key Features:**
@@ -445,6 +456,7 @@ Developed a multithreaded TCP port scanner capable of identifying open ports, de
 `Python` `Socket Programming` `Concurrent Futures` `TCP/IP` `Banner Grabbing` `Network Reconnaissance`
 
 **Use Case:**  
+
 Designed for educational networking and cybersecurity purposes to demonstrate port scanning, service discovery, and exposed service analysis in enterprise environments.
 
 <div align="center">
