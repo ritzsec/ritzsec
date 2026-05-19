@@ -6,7 +6,7 @@
  <!-- Dynamic Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00C853&center=true&vCenter=true&random=false&width=1000&lines=Enterprise+Routing+%26+Switching;Network+Security+%26+Infrastructure;Firewall+%26+VPN+Technologies;Packet+Analysis+with+Wireshark;Infrastructure+Troubleshooting" alt="Typing SVG" />
 
-  <p><em>Passionate about Enterprise Networking, Cybersecurity, Routing & Switching, and Real-World Network Security</em></p>
+
 
   <br/>
 
@@ -19,8 +19,8 @@
 
 # 👨‍💻 About Me
 
-
-Network Security Engineer passionate about enterprise networking, infrastructure security, and secure network design. Experienced in routing & switching, VLANs, HSRP, ACLs, packet analysis using Wireshark, and troubleshooting enterprise-level networking environments. Currently expanding expertise in firewall technologies, VPNs, cloud & data center networking, secure architecture, and Python for network automation. Strong interest in building scalable, secure, and resilient enterprise network infrastructures.
+Network Security Engineer with hands-on knowledge in enterprise networking, infrastructure security, and secure network design technologies. Skilled in configuring and troubleshooting  VLANs, STP, EtherChannel, OSPF, EIGRP, HSRP, ACLs, NAT, Packet analysis using Wireshark, and enterprise-level WAN technologies. Currently expanding expertise in firewall technologies, VPNs, SD-WAN, secure architecture, along with Python for network automation. <br> <br>
+Passionate about designing secure, scalable, and reliable enterprise networks while continuously strengthening practical troubleshooting and security skills through labs, projects, and real-world networking scenarios.
 
 <div align="center">
 </div>
