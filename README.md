@@ -211,7 +211,7 @@ Simulates a real-world enterprise WAN environment where multiple branch offices 
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOURUSERNAME/Enterprise_EIGRP_WAN_Project)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ritzsec/Enterpise-EIGRP-WAN-Project-1)
 
 </div>
 
