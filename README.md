@@ -435,13 +435,11 @@ Designed for educational networking and cybersecurity purposes to demonstrate po
 
 <div align="center">
 
-> Enterprise Networking • Network Security • Infrastructure Troubleshooting • Python Automation
+ Enterprise Networking • Network Security • Infrastructure Troubleshooting • Python Automation
 
 </div>
 
 <br>
-
-<div align="center">
 
 ```console
 
